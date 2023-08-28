@@ -1,0 +1,13 @@
+{
+    "identifier": "chriskrycho.glimmer",
+    "name": "Glimmer",
+    "organization": "Chris Krycho",
+    "description": "Nova support for Ember/Glimmer, with Glint integration",
+    "version": "0.1.0",
+    "categories": ["languages", "issues"],
+    "activationEvents": ["onlanguage:glimmerjs", "onlanguage:glimmerts"],
+    "bugs": "https://github.com/chriskrycho/glimmer-nova-extension",
+    "homepage": "https://github.com/chriskrycho/glimmer-nova-extension",
+    "funding": "https://github.com/sponsors/chriskrycho",
+    "license": "BlueOak-1.0.0"
+}
